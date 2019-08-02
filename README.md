@@ -1,0 +1,2 @@
+# Kronic-Computer
+Portfolio
